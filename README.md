@@ -5,10 +5,10 @@ This repository contains an end-to-end data analysis project Toman Bike Share Da
 We aee developing a Dashboard for "Toman Bike Share" that displays key performance metrics for informed decesion making.
 
 ## Requirement :
-Hourly Revenue Analysis\n
-Profit and Revenue Trends\n
-Seasonal Revenue\n
-Rider Demographics\n
+Hourly Revenue Analysis,
+Profit and Revenue Trends,
+Seasonal Revenue,
+Rider Demographics
 
 
 
