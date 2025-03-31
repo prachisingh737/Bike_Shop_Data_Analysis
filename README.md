@@ -1,11 +1,11 @@
-#Overview
+## Overview
 This project is an end-to-end data analysis pipeline for Toman Bike Share, demonstrating how SQL and Power BI can be used to extract, transform, analyze, and visualize data. The goal is to develop an interactive dashboard that provides key business insights, enabling data-driven decision-making regarding pricing strategies and ridership trends.
 
 #Project Goal 🎯
 Toman Bike Share wants to analyze revenue trends, ridership patterns, and seasonal fluctuations to determine if they can increase subscription prices in the upcoming year.
 
-#Key Features 🔍
-#✅ Data Extraction & Transformation:
+## Key Features 🔍
+## ✅ Data Extraction & Transformation:
 
 Downloaded dataset from GitHub
 
@@ -17,7 +17,7 @@ Joined with the cost table to calculate revenue & profit
 
 Selected only relevant columns for performance optimization
 
-#✅ Data Analysis & Queries:
+## ✅ Data Analysis & Queries:
 
 Created Common Table Expressions (CTEs) to organize and filter data
 
@@ -25,7 +25,7 @@ Calculated hourly revenue, seasonal revenue, and rider demographics
 
 Used SQL functions to clean missing & inconsistent data
 
-#✅ Data Visualization with Power BI:
+## ✅ Data Visualization with Power BI:
 
 Hourly Revenue Analysis: Identified peak usage times (8 AM & 5 PM)
 
@@ -35,7 +35,7 @@ Seasonal Revenue (Quarters): Determined when ridership & profits peaked
 
 Rider Demographics: Segmented registered vs. casual riders
 
-#Tech Stack 🛠️
+## Tech Stack 🛠️
 SQL (MySQL Workbench) – Data extraction & transformation
 
 Power BI – Data visualization & dashboard creation
